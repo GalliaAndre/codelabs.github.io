@@ -3,8 +3,8 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-10-15T16:31:32Z",
-  "id": "how-to-use-roomenta",
+  "updated": "2020-10-16T10:24:45Z",
+  "id": "docs",
   "duration": 6,
   "title": "Roomenta Web | Beta - HOW TO USE",
   "authors": "Andrea Galliani",
@@ -12,7 +12,7 @@
   "source": "16szU24ZJDskqa9PvEsj3zTXSWNt7CX-WL8ZLChGc8o0",
   "theme": "web",
   "status": [
-    "draft"
+    "published"
   ],
   "category": [
     "Web"
@@ -35,5 +35,5 @@
     "web"
   ],
   "feedback": "https://github.com/GalliaAndre/codelabs.github.io/issues",
-  "url": "how-to-use-roomenta"
+  "url": "docs"
 }
