@@ -31,6 +31,15 @@
                   environment="web"
                   feedback-link="https://github.com/GalliaAndre/codelabs.github.io/issues">
     
+    <div class="about-card">
+  <h2 class="title">About this codelab</h2>
+  <div class="last-updated">
+    <i class="material-icons">subject</i>Last updated Oct 12, 2020
+  </div>
+  <div class="authors">
+    <i class="material-icons">account_circle</i>Written by a Googler
+  </div>
+</div>
       <google-codelab-step label="Per Iniziare" duration="1">
         <p class="image-container"><img style="width: 820.91px" src="img\3b71cbbdd57d0021.png"></p>
 <p>Roomenta è una web app pensata e sviluppata per facilitare la gestione dell&#39;accesso agli spazi lavorativi di un&#39;azienda o di una scuola.</p>
@@ -193,3 +202,42 @@
 
 </body>
 </html>
+
+<style>
+    .about-card {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  border: 1px solid #dadce0;
+  border-radius: 5px;
+  background: #fff;
+  max-width: 800px;
+  margin: 0 auto 30px;
+  padding: 20px;
+}
+.about-card h2 {
+  font-weight: 500;
+  font-weight: 400 !important;
+  line-height: 1em !important;
+  margin: 0 !important;
+  font-size: 28px;
+}
+ .about-card > :not(:first-child) {
+  padding-top: 30px;
+}
+ .about-card .material-icons {
+  margin-right: 10px;
+  top: 6px;
+  position: relative;
+}
+
+</style>
