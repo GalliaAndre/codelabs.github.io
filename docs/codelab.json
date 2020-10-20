@@ -35,5 +35,6 @@
     "web"
   ],
   "feedback": "https://github.com/GalliaAndre/codelabs.github.io/issues",
-  "url": "docs"
+  "url": "docs",
+  "index": "https://roomenta.sorint.it/"
 }
