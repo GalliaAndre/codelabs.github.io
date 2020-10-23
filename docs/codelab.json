@@ -3,11 +3,11 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-10-16T11:24:06Z",
+  "updated": "2020-10-23T12:11:58Z",
   "id": "docs",
   "duration": 6,
   "title": "Roomenta Web | Beta - HOW TO USE",
-  "authors": "Andrea Galliani",
+  "authors": "agalliani",
   "summary": "In this codelab, you'll learn about Roomenta!",
   "source": "16szU24ZJDskqa9PvEsj3zTXSWNt7CX-WL8ZLChGc8o0",
   "theme": "web",
@@ -34,6 +34,6 @@
     "typtwd17",
     "web"
   ],
-  "feedback": "https://github.com/GalliaAndre/codelabs.github.io/issues",
-  "url": "docs",
+  "feedback": "https://wescrum.sorint.it/projects/roomenta/issues/new",
+  "url": "docs"
 }
